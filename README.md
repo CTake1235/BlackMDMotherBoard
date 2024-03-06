@@ -18,3 +18,5 @@
 - 100mm \* 100mmに収める
 	- これは発注金額の問題
 	- 実際には1.27(0.5mil)の倍数: 99.06mmを1辺とする設計にすることで配線の対称性などを保つ
+- https://www.figma.com/file/h6nRyaCE1Uanp6SJ3a7Op9/2024%E9%BB%92MD%E3%83%9E%E3%82%B6%E3%83%BC?type=whiteboard&node-id=0%3A1&t=XtIcsm7LwBn8oLYL-1
+	- figmaに謎図あります
